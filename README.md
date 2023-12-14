@@ -1,0 +1,1 @@
+The code uses a ready-made file "tracker.py" that identifies the object.This code defines a class EuclideanDistTracker that implements an object tracker based on the Euclidean distance between the centers of detected objects![image](https://github.com/temirbaevabermet/objectTracking/assets/150419889/369286a9-3817-4165-be67-0869d664391c)
