@@ -50,5 +50,10 @@ while True:
     cv2.imshow("Frame", frame)
     cv2.imshow("Mask", mask)
 
+    key = cv2.waitKey(30)
+    if key == 27:
+        break
+
+
 cap.release()
 cv2.destroyAllWindows()
